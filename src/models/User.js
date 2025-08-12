@@ -10,7 +10,6 @@ export default (sequelize, DataTypes) => {
       password: DataTypes.STRING,
       address: DataTypes.STRING,
       gender: DataTypes.STRING,
-
       phoneNumber: DataTypes.STRING,
       groupId: DataTypes.INTEGER,
     },

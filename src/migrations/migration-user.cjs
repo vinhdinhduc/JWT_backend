@@ -33,7 +33,7 @@ module.exports = {
         type: Sequelize.STRING,
       },
       groupId: {
-        groupId: Sequelize.INTEGER,
+        type: Sequelize.INTEGER,
       },
 
       createdAt: {
